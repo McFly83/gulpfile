@@ -2,13 +2,13 @@ Configuration for gulp task runner
 
 you must install the follwoing node packages:
 
-npm install gulp 
-npm install globby
-npm install gulp-concat
-npm install gulp-cssnano
-npm install gulp-sass
-npm install sass
-npm install gulp-uglify
-npm install imagemin
-npm install imagemin-mozjpeg
-npm install imagemin-pngquant
+npm install gulp <br>
+npm install globby <br>
+npm install gulp-concat <br>
+npm install gulp-cssnano <br>
+npm install gulp-sass <br>
+npm install sass <br>
+npm install gulp-uglify <br>
+npm install imagemin <br>
+npm install imagemin-mozjpeg <br>
+npm install imagemin-pngquant <br>
